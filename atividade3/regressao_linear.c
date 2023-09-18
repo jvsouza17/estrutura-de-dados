@@ -58,4 +58,4 @@ int main() {
     printf("\nEquação da Regressão Linear: Y = %.2fX + %.2f\n", coeficienteAngular, interceptacao);
 
     return 0;
-
+}
