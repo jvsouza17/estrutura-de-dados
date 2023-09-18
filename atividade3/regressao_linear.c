@@ -43,8 +43,6 @@ int main() {
 
     
     for (int i = 0; i < contador; i++) {
-        somaX += valoresX[i];
-        somaY += valoresY[i];
         somaXY += valoresX[i] * valoresY[i];
         somaXQuadrado += valoresX[i] * valoresX[i];
     } 
